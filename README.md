@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @criss02-cs
-- 👀 I’m interested in software and web development, using .NET Framework or PHP, JS, CSS, HTML
+- 👀 I’m interested in software, web and mobile development, using .NET Framework, Java, PHP, JS, CSS, HTML, ANGULAR, REACT NATIVE
 - 🌱 I am learning how to improve my programming skills and I am looking to specialize as a backend programmer
-- 💞️ I'm looking to collaborate on desktop application projects or website backend projects
+- 💞️ I'm looking to collaborate on desktop application projects, website backend projects or mobile projects
 - 📫 How to reach me email: cristianoaloigi0@gmail.com, instagram: criss02.cs
 
 <!---
